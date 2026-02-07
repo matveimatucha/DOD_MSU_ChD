@@ -747,7 +747,8 @@
                 <h2>Полезные ссылки</h2>
                 <a href="https://openday.msu.ru/" class="link-button">День открытых дверей МГУ</a>
                 <a href="https://do.chem.msu.ru/dl/" class="link-button">Дистанционные курсы подготовки</a>
-                <a href="https://vk.cc/cI2aZv" class="link-button">Таблица распределения</a>
+                <a href="https://docs.google.com/spreadsheets/d/1G11XiXfp42Fm7GqaoC6Tjg3zaWWBaYDowFPQhr9b9UQ/edit?usp=sharing" class="link-button">Таблица распределения</a>
+                <a href="https://docs.google.com/document/d/10Fwh4oVMwfNdII6uFMnEDthCjp_IF-olZHGr5GR8fwk/edit?usp=sharing" class="link-button">QR-коды для абитуриентов</a>
             </div>
 
         </div>
